@@ -1,3 +1,4 @@
 sphinx
 sphinxcontrib-golangdomain
 sphinx-autoapi
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
